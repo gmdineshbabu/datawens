@@ -1,0 +1,9 @@
+<div>
+  <h2>Sales Details</h2>
+  <ul *ngFor="let mData of monthData; let index">
+    <li>Sales Month : {{mData.salesMonth}}</li>
+    <li>Sales Unit : {{mData.salesUnit}}</li>
+  </ul>
+</div>
+
+<button [routerLink]="['/sales']">Go to Sales Graph</button>

@@ -1,0 +1,54 @@
+{
+    "data":[
+        {
+            "salesMonth":"Jan",
+            "salesUnit":50
+        },
+        {
+            "salesMonth":"Feb",
+            "salesUnit":60
+        },
+        {
+            "salesMonth":"March",
+            "salesUnit":70
+        },
+        {
+            "salesMonth":"April",
+            "salesUnit":80
+        },
+        {
+            "salesMonth":"May",
+            "salesUnit":50
+        },
+        {
+            "salesMonth":"June",
+            "salesUnit":70
+        },
+        {
+            "salesMonth":"July",
+            "salesUnit":50
+        },
+        {
+            "salesMonth":"Aug",
+            "salesUnit":80
+        },
+        {
+            "salesMonth":"Sept",
+            "salesUnit":60
+        },
+        {
+            "salesMonth":"Oct",
+            "salesUnit":80
+        },
+        {
+            "salesMonth":"Nov",
+            "salesUnit":50
+        },
+        {
+            "salesMonth":"Dec",
+            "salesUnit":70
+        }
+    ]
+}
+
+
